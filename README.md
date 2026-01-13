@@ -1,6 +1,6 @@
 # A single player Sea Battle game in C++
 
-<img src="https://gitlab.fel.cvut.cz/mamaegeo/sea-battle/-/raw/main/game_img.png?ref_type=heads" alt="GameImage" width="400" height="250">
+<img src="https://github.com/mamaegeo/sea-battle/blob/main/game_img.png" alt="GameImage" width="400" height="250">
 
 ## Task
 
